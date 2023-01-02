@@ -25,4 +25,7 @@ pipenv install Django==4.1.5
 
 # Correr un script con el ambiente virtual creado por pipenv
 pipenv run python main.py
+
+# Habilitar el ambiente virtual
+pipenv shell
 ```
